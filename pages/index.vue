@@ -6,5 +6,8 @@
 
 <script setup>
     const {$sayHello} = useNuxtApp();
-    $sayHello("Elvin Kyungu")
+    $sayHello("Elvin Kyungu");
+    definePageMeta({
+        middleware: 'auth'
+    })
 </script>
