@@ -1,5 +1,6 @@
 <template>
     <div>
-        <ProfileHeader/>
+        Profile Header
+        
     </div>
 </template>
