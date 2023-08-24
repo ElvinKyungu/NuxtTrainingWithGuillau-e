@@ -5,6 +5,9 @@ export default defineNuxtConfig({
   alias:{
     "@": resolve(__dirname, "/")
   },
+  modules:[
+    '@nuxt/content'
+  ],
   css: ["~/assets/main.scss"],
   postcss: {
     plugins: {

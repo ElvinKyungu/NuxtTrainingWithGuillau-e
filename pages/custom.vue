@@ -7,5 +7,5 @@ definePageMeta({
     $sayHello("Customs")
 </script>
 <template>
-    
+    <ContentDoc />
 </template>
