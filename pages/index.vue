@@ -1,13 +1,7 @@
 <template>
-    <main>
-        <ContentDoc />
-    </main>
+    <div class="h-screen bg-black z-5">
+        
+		
+    </div>
 </template>
 
-<script setup>
-    const {$sayHello} = useNuxtApp();
-    $sayHello("Elvin Kyungu");
-    definePageMeta({
-        middleware: 'auth'
-    })
-</script>
