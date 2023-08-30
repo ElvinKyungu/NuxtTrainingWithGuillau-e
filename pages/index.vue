@@ -1,7 +1,10 @@
 <template>
-    <div class="h-screen bg-black z-5">
-        
-		
-    </div>
+    <OrganismsMainTransition />
 </template>
 
+<script>
+
+</script>
+<style>
+
+</style>
