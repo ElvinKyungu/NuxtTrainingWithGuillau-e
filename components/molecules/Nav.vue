@@ -196,7 +196,7 @@ body {
 	margin: 0;
     --color-text: #919191;
     --color-text-alt: #747474;
-    --color-bg: #0f0e0e;
+    --color-bg: #000;
     --color-link: #e5e5e5;
     --color-link-hover: #d6cecb;
     color: var(--color-text);

@@ -20,6 +20,7 @@
     "@motionone/utils": "^10.15.1",
     "@nuxt/content": "^2.7.2",
     "gsap": "file:gsap-bonus.tgz",
-    "sass": "^1.66.1"
+    "sass": "^1.66.1",
+    "split-type": "^0.3.3"
   }
 }
